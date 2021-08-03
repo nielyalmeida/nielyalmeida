@@ -4,6 +4,6 @@
 
 -💻Eu estou aprendendo R
 
--📉Finanças//
+-📉Finanças.
 
 
